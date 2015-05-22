@@ -1,0 +1,14 @@
+# Ignore everything
+*
+# Don't ignore directories, so we can recurse into them
+!*/
+# Don't ignore .gitignore and *.foo files
+!.gitignore
+!*.m
+!*.ijm
+!*.py
+!*.r
+!*.R
+!*.md
+
+
